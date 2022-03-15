@@ -1,52 +1,54 @@
-{
-    "ArtistName": "Bruno Mars",
-    "SongName": "24K Magic",
-    "ReleaseDate": 2016,
-    "Genre": ["Pop", "RnB"]
-}
-{
-    "ArtistName": "Bruno Mars",
-    "SongName": "Grenade",
-    "ReleaseDate": 2010,
-    "Genre": ["Pop", "RnB"]
-}
+[
+    {
+        "ArtistName": "Bruno Mars",
+        "SongName": "24K Magic",
+        "ReleaseDate": 2016,
+        "Genre": [Pop]
+    },
+    {
+        "ArtistName": "Bruno Mars",
+        "SongName": "Grenade",
+        "ReleaseDate": 2010,
+        "Genre": ["Pop", "RnB"]
+    },
 
-{
-    "ArtistName": "Imagine Dragons",
-    "SongName": "Radioactive",
-    "ReleaseDate": 2012
-    "Genre": ["Alternative Rock", "Rock"]
-}
-{
-    "ArtistName": "Imagine Dragons",
-    "SongName": "Demons",
-    "ReleaseDate": 2012
-    "Genre": ["Alternative Rock", "Rock"]
-}
-{
-    "ArtistName": "Frank Ocean",
-    "SongName": "Sweet Life",
-    "ReleaseDate": 2012,
-    "Genre": ["Pop", "RnB"]
-}
+    {
+        "ArtistName": "Imagine Dragons",
+        "SongName": "Radioactive",
+        "ReleaseDate": 2012
+        "Genre": ["Alternative Rock", "Rock"]
+    },
+    {
+        "ArtistName": "Imagine Dragons",
+        "SongName": "Demons",
+        "ReleaseDate": 2012
+        "Genre": ["Alternative Rock", "Rock"]
+    },
+    {
+        "ArtistName": "Frank Ocean",
+        "SongName": "Sweet Life",
+        "ReleaseDate": 2012,
+        "Genre": ["Pop", "RnB"]
+    },
 
-{
-    "ArtistName": "Kendrick Lamar",
-    "SongName": "Pride",
-    "ReleaseDate": 2016,
-    "Genre": ["Hip-Hop", "Rap"]
-}
+    {
+        "ArtistName": "Kendrick Lamar",
+        "SongName": "Pride",
+        "ReleaseDate": 2016,
+        "Genre": ["Hip-Hop", "Rap"]
+    },
 
-{
-    "ArtistName": "Frank Ocean",
-    "SongName": "Novacane",
-    "ReleaseDate": 2011,
-    "Genre": ["Pop", "RnB"]
-}
+    {
+        "ArtistName": "Frank Ocean",
+        "SongName": "Novacane",
+        "ReleaseDate": 2011,
+        "Genre": ["Pop", "RnB"]
+    },
 
-{
-    "ArtistName": "Kendrick Lamar",
-    "SongName": "Alright",
-    "ReleaseDate": 2015,
-    "Genre": ["Hip-Hop", "Pop"]
-}
+    {
+        "ArtistName": "Kendrick Lamar",
+        "SongName": "Alright",
+        "ReleaseDate": 2015,
+        "Genre": ["Hip-Hop", "Pop"]
+    }
+]
