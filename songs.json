@@ -3,7 +3,7 @@
         "ArtistName": "Bruno Mars",
         "SongName": "24K Magic",
         "ReleaseDate": 2016,
-        "Genre": [Pop]
+        "Genre": ["Pop", "RnB"]
     },
     {
         "ArtistName": "Bruno Mars",
